@@ -1,8 +1,8 @@
 package org.example.factory_method;
 
-import org.example.base.Email;
-import org.example.base.Notifier;
-import org.example.base.SMS;
+import org.example.base.message.Email;
+import org.example.base.message.Notifier;
+import org.example.base.message.SMS;
 
 public class NotificationService {
     private Notifier notifier;

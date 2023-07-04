@@ -1,6 +1,6 @@
 package org.example.strategy;
 
-import org.example.base.Notifier;
+import org.example.base.message.Notifier;
 
 public class NotificationService {
     private Notifier notifier;
