@@ -1,7 +1,7 @@
-package org.example.abstract_factory;
+package org.example.creational_patterns.abstract_factory;
 
-import org.example.base.restaurant.Drink;
-import org.example.base.restaurant.Food;
+import org.example.creational_patterns.base.restaurant.Drink;
+import org.example.creational_patterns.base.restaurant.Food;
 
 public class GetVoucher {
     private final Drink drink;

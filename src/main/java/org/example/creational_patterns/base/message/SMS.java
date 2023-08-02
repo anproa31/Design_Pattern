@@ -1,6 +1,4 @@
-package org.example.base.message;
-
-import org.example.base.message.Notifier;
+package org.example.creational_patterns.base.message;
 
 public class SMS implements Notifier {
     public void Send(String message) {

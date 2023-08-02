@@ -1,8 +1,8 @@
-package org.example.factory_method;
+package org.example.creational_patterns.factory_method;
 
-import org.example.base.message.Email;
-import org.example.base.message.Notifier;
-import org.example.base.message.SMS;
+import org.example.creational_patterns.base.message.Email;
+import org.example.creational_patterns.base.message.Notifier;
+import org.example.creational_patterns.base.message.SMS;
 
 public class NotificationService {
     private Notifier notifier;

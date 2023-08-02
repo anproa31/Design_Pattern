@@ -1,4 +1,4 @@
-package org.example.abstract_factory;
+package org.example.creational_patterns.abstract_factory;
 
 import java.util.Optional;
 import java.util.Scanner;

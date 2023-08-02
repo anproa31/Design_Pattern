@@ -1,4 +1,4 @@
-package org.example.base.restaurant;
+package org.example.creational_patterns.base.restaurant;
 
 public class GrilledMeat implements Food{
     public void Eat() {

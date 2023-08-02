@@ -1,6 +1,6 @@
-package org.example.strategy;
+package org.example.behavioral_patterns.strategy;
 
-import org.example.base.message.Notifier;
+import org.example.creational_patterns.base.message.Notifier;
 
 public class NotificationService {
     private Notifier notifier;

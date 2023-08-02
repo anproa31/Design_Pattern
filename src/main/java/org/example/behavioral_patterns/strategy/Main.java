@@ -1,6 +1,6 @@
-package org.example.strategy;
+package org.example.behavioral_patterns.strategy;
 
-import org.example.base.message.Email;
+import org.example.creational_patterns.base.message.Email;
 
 public class Main {
     public static void main(String[] args) {
